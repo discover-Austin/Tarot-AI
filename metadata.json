@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Tarot Interpreter",
+  "description": "A mystical tarot card interpreter application that provides insightful readings using the Gemini API. Draw a card from the Major Arcana and receive a personalized interpretation for guidance and reflection.",
+  "requestFramePermissions": []
+}
